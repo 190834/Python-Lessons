@@ -1,0 +1,72 @@
+import turtle
+wn = turtle.Screen()
+wn.bgcolor("black")
+wn.title("Name")
+
+name = turtle.Turtle()
+name.color("white")
+name.pensize(5)
+name.color("black")
+name.setposition(-200,0)
+name.color ("white")
+name.left (90)
+name.forward(100)
+name.right (120)
+name.forward (100)
+name.right (120)
+
+name.forward (100)
+name.color("black")
+
+
+name.right (210)
+
+name.forward (100)
+
+name.color("white")
+
+name.left (90)
+name.forward(100)
+name.backward(60)
+name.right (90)
+name.forward (50)
+name.right (90)
+name.forward (45)
+name.color("black")
+
+
+
+name.left (90)
+name.forward (30)
+name.color ("white")
+name.left (90)
+name.forward (60)
+name.backward (15)
+name.right (90)
+#semi circle
+#name.circle (120,180)
+name.forward (50)
+name.color("black")
+name.right (90)
+name. forward (45)
+name.left (90)
+name.forward (30)
+name.color ("white")
+name.left(90)
+name.forward(50)
+name.backward (50)
+name.right (90)
+name.forward (50)
+name.left (90)
+name.forward (50)
+name.color ("black")
+name.right(90)
+name.forward (30)
+name.color("white")
+name.right (70)
+name.forward(60)
+name.left (130)
+name.forward (60)
+name.hideturtle()
+
+wn.mainloop()
