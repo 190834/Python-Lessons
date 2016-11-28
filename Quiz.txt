@@ -76,9 +76,29 @@ Find an equation of the exponential curve that passes through (1,80) and (4,156.
 4. y=156.25*x^4
 
 Question 12:
+What is log 0?
+1. Undefined
+2. 0
+3. 1
+4. e
 
 Question 13:
+What is log 5 - log 10
+1. 50
+2. -5
+3. 1/10
+4. 1/2
 
 Question 14:
+What is log 5 + log 10?
+1. 50
+2. -5
+3. 1/10
+4. 1/2
 
 Question 15:
+What is 6+10? (Challenge Question)
+1. 16
+2. ln 6
+3. 32423*10^8
+4. Undefined
