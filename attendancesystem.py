@@ -156,4 +156,4 @@ def record(present, tardy, todaydate):
 
     reset(present, tardy)
 
-reset(present, tardy)
+reset(present, tardy
