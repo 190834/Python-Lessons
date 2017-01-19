@@ -5,4 +5,4 @@ rfidnamematcher = ["300833B2DDD9014000000009","Douglas Lau", "300833B2DDD9014000
 authorized = ["Douglas Lau", "Dhruv Bhagwani", "Alex Ashcar", "Sid Sengupta", "Shan Deneen", "Miguel D'Costa", "Jaeha Park", "Andrew Hunt", "Bella Wilkinson", "Krish Shah"]
 
 # Input time of class (24 hour clock)
-timeofclass = "08:22:00)
+timeofclass = "08:22:00"
